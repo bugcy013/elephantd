@@ -12,3 +12,7 @@ Requirements
 -- pip install bs4
 - Statsd
 -- pip install statsd
+
+How to Run
+=========
+- python elephantd.py
