@@ -5,7 +5,7 @@ A Hadoop metrics web scraper to statsd
 
 Requirements
 =========
-# Python plugins 
+Python plugins 
 - urllib2
 -- pip install urllib2
 - BeautifulSoup4
